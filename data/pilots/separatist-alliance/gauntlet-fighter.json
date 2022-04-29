@@ -39,6 +39,7 @@
       "image": "https://infinitearenas.com/xw2/images/pilots/bokatankryze-separatist-alliance.png",
       "caption": "Vizsla's Lieutenant",
       "ability": "Before a friendly ship at range 0-2 activates, you may spend 1 [Charge]. If you do, that ship may gain 1 strain token to remove 1 non-stress red or orange token.",
+      "charges": { "value": 1, "recovers": 1 },
       "cost": 7,
       "loadout": 24,
       "initiative": 4,
