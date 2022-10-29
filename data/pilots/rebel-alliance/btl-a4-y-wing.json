@@ -215,7 +215,7 @@
         "name": "Hope",
         "text": "After another friendly ship at range 0-3 is destroyed, you may perform a [Focus] or [Boost] action."
       },
-      "upgrades": ["ioncannonturret", "advprotontorpedoes", "targetingastromech"],
+      "upgrades": ["ioncannonturret", "advprotontorpedoes", "targetingastromech-battleofyavin"],
       "image": "https://infinitearenas.com/xw2/images/quickbuilds/dutchvander-battleofyavin.png",
       "artwork": "",
       "standard": true,
