@@ -231,7 +231,7 @@
       "cost": 4,
       "standardLoadout": true,
       "xws": "holokand-battleofyavin",
-      "ability": "During the System Phasse, if there are no enemy ships at range 1-2, you may recover 1 [Charge] on any upgrade.",
+      "ability": "During the System Phase, if there are no enemy ships at range 1-2, you may recover 1 [Charge] on any upgrade.",
       "shipAbility": {
         "name": "Hope",
         "text": "After another friendly ship at range 0-3 is destroyed, you may perform a [Focus] or [Boost] action."
