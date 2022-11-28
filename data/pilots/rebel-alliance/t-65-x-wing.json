@@ -424,7 +424,7 @@
         "Configuration"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/corranhorn-t65xwing.png",
-      "artwork": "",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/corranhorn-t65xwing.png",
       "standard": true,
       "extended": true,
       "keywords": ["X-wing"],
@@ -448,7 +448,7 @@
         "Configuration"
       ],
       "image": "https://infinitearenas.com/xw2/images/pilots/wesjanson.png",
-      "artwork": "",
+      "artwork": "https://infinitearenas.com/xw2/images/artwork/pilots/wesjanson.png",
       "standard": true,
       "extended": true,
       "keywords": ["X-wing"],
