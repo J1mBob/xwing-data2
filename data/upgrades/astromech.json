@@ -784,7 +784,7 @@
     "sides": [
       {
         "ability": "When you would be dealt a damage card, if you are not defending, you may spend 1 [Charge] and gain 1 strain to discard it instead.",
-        "title": "Targeting Astromech",
+        "title": "R4-P17",
         "type": "Astromech",
         "slots": ["Astromech"],
         "charges": { "value": 2, "recovers": 0 }
