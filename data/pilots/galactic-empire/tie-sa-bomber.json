@@ -202,7 +202,7 @@
       "cost": 4,
       "xws": "captainjonus-swz105",
       "ability": "While a friendly ship at range 0-1 performs a [Torpedo] or [Missile] attack, that ship may reroll up to 2 attack dice.",
-      "image": "",
+      "image": "https://infinitearenas.com/xw2/images/quickbuilds/captainjonus-swz105.png",
       "shipAbility": {
         "name": "Nimble Bomber",
         "text": "If you would drop a device using a [Straight] template, you may use a [Bank Left] or [Bank Right] template of the same speed instead."
@@ -222,7 +222,7 @@
       "cost": 5,
       "xws": "tomaxbren-swz105",
       "ability": "After you perform a [Reload] action, you may recover 1 [Charge] token on 1 of your equipped [Talent] upgrade cards.",
-      "image": "",
+      "image": "https://infinitearenas.com/xw2/images/quickbuilds/tomaxbren-swz105.png",
       "shipAbility": {
         "name": "Nimble Bomber",
         "text": "If you would drop a device using a [Straight] template, you may use a [Bank Left] or [Bank Right] template of the same speed instead."
